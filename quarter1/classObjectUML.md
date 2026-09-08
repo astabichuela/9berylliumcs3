@@ -13,7 +13,7 @@
 | Method | Description |
 |---|---|
 |lift() |To lift the equipment |
-|bounce() |To bounce the equipment |
+|bounce(times) |To bounce the equipment how many times |
 |display(color) |To display the color of the equipment |
 ## Class Diagram
 ![Class Diagram](images/classDiagram.png)
