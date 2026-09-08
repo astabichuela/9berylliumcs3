@@ -14,7 +14,7 @@
 |---|---|
 |lift() |To lift the equipment |
 |bounce() |To bounce the equipment |
-|displayinfo(brand) |To display the information on a certain brand |
+|display(color) |To display the color of the equipment |
 ## Class Diagram
 ![Class Diagram](images/classDiagram.png)
 ## Design Explanation
