@@ -38,5 +38,5 @@ I changed the method from displayinfo(brand) to display(color) to make it less c
 
 ### How did your two objects demonstrate that instances are independent? In the test run, equipment1 (Nike, Orange, 2500, 600) had its price reduced to 2250 after applying a discount. equipment2 (Spalding, Brown, 3000, 650) stayed the same because no discount was applied to it. 
 
-### What is the difference between your class diagram and your object diagram? Both class diagram and object diagram shows the properties and methods of the class but the main difference is the object one shows whether it’s a positive or negative attribute.
+### What is the difference between your class diagram and your object diagram? Both class diagram and object diagram shows the properties and methods of the class but the main difference is the object that shows whether it’s a positive or negative attributes.
 
