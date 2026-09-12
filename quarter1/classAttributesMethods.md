@@ -6,7 +6,7 @@ Link to my previous activity:
 [classObjectUML.md](classObjectUML.md)
 
 ## Design Revision
-I changed the method from displayinfo(brand) to display(color) to make it less complicated. In code for example, the basketball is black so as a result it would flash the color of the equipment rather than flash information about the brand. And in the methods i added a parameter times to bounce.
+I changed the method from displayinfo(brand) to apply_discount(price) to make it less complicated. In code for example, the equipment is priced Php 5000, then after applying discount, the price will lessen. And another method i changed is the bounce which i added a parameter times to bounce.
 
 ## Visibility Decisions
 | Attribute | Data Type | Visibility | Reason |
@@ -34,9 +34,9 @@ I changed the method from displayinfo(brand) to display(color) to make it less c
 
 
 
-### Which method changes the state of your object? The method that changes the state is apply_discount(percent). It directly modifies the private price attribute by reducing it based on the discount percentage. 
+### Which method changes the state of your object? The method that changes the state is apply_discount(price). It directly modifies the private price attribute by reducing it based on the discount price. 
 
-### How did your two objects demonstrate that instances are independent? In the test run, equipment1 (Nike, Orange, 2500, 600) had its price reduced to 2250 after applying a discount. equipment2 (Spalding, Brown, 3000, 650) stayed the same because no discount was applied to it. 
+### How did your two objects demonstrate that instances are independent? In the test run, equipment1 (Nike, Orange, 2500, 600) had its price reduced to 2250 after applying a discount of 250. equipment2 (Spalding, Brown, 3000, 650) stayed the same because no discount was applied to it. 
 
 ### What is the difference between your class diagram and your object diagram? Both class diagram and object diagram shows the properties and methods of the class but the main difference is the object that shows whether it’s a positive or negative attributes.
 
