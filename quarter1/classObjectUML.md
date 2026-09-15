@@ -14,7 +14,7 @@
 |---|---|
 |lift() |To lift the equipment |
 |bounce(times) |To bounce the equipment how many times |
-|display(color) |To display the color of the equipment |
+|apply_discount(price) |To apply the discount for on the price of the equipment |
 ## Class Diagram
 ![Class Diagram](images/classDiagram.png)
 ## Design Explanation
@@ -25,4 +25,4 @@
 ## For me it is the price for the customers or athletes to see whether what is better in prices. If you're on a budget the cheaper ones will attract you and if you have money, you  can choose freely.
 
 # Which method is the most useful? Why?
-## For me it is the displayinfo(brand) as it displays the information on the brand and can help athletes and buyers to learn more about the brand. It provides a clear path for people to choose equipment brands wisely. 
+## For me it is the apply_discount(price) to apply the discount for the equipment to be bought. 
