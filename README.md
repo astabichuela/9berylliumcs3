@@ -18,3 +18,4 @@
 
 [OOPAct III](quarter1/classRelationships.md)
 
+[OOPAct IV](quarter1/advancedRelationships.md)
