@@ -18,7 +18,7 @@ Explanation: One basketball equipment can be used by an NBA athlete at a time.
 ## UML Class Relationship Diagram
 ![Class Relationship Diagram](images/classRelationshipDiagram.png)
 ## Python Implementation
-[View Python Source](quarter1/classRelationships.py)
+[View Python Source](classRelationships.py)
 ## Test Run
 ![Relationship Test Run](images/relationshipTestRun.png)
 ## Object Relationship Diagram
