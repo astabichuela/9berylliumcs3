@@ -1,7 +1,9 @@
 # Hi! I'm Armel Sean T. Abichuela
-# 9 - Beryllium lang sakalam
-# BerylliumMahBabeh
+## 9 - Beryllium lang sakalam
+## BerylliumMahBabeh
 
+
+# First Quarter Outputs:
 [Computer Thinking Skills](quarter1/ctskillsBerylliumABICHUELA.md)
 
 [Zodiac Signs](zodiacBerylliumABICHUELA.py)
