@@ -44,17 +44,15 @@ Explanation: The relationship between Basketball Equipments and Basketball Shoes
 ## Reflection
 Answers:
 
-1. Why did you choose your inheritance relationship? Explain why your child class is a type of your parent class. 
-I chose BasketballShoes as a child of BasketballEquipments because shoes are a specific type of equipment. The parent class holds general attributes like brand, color, price, and weight. On the other hand, the child class specializes by adding size and material that results to extend them with unique features. 
+1. Why did you choose your inheritance relationship? Explain why your child class is a type of your parent class.           I chose BasketballShoes as a child of BasketballEquipments because shoes are a specific type of equipment. The parent class holds general attributes like brand, color, price, and weight. On the other hand, the child class specializes by adding size and material that results to extend them with unique features. 
 
-2. How did inheritance reduce duplicate code? Identify attributes or methods that were reused. 
-Inheritance allowed me to reuse the attributes and methods from BasketballEquipments in BasketballShoes without rewriting them. For example, the attributes like brand, color, price, and weight were inherited directly. This reduced errors in being redundant and kept the code cleaner by avoiding repeated definitions.
+3. How did inheritance reduce duplicate code? Identify attributes or methods that were reused.                    Inheritance allowed me to reuse the attributes and methods from BasketballEquipments in BasketballShoes without rewriting them. For example, the attributes like brand, color, price, and weight were inherited directly. This reduced errors in being redundant and kept the code cleaner by avoiding repeated definitions.
 
-3. Why is your HAS-A relationship Composition or Aggregation? Explain the lifecycle relationship between the two objects. 
+4. Why is your HAS-A relationship Composition or Aggregation? Explain the lifecycle relationship between the two objects.
 The relationship between BasketballEquipments and BasketballShoes is Aggregation. Shoes are modeled as a specialized equipment object that can exist independently of the general equipment class. Even if the BasketballEquipments object is removed, the BasketballShoes object can still exist on its own with its unique attributes like size and material.
 
-4. What is the difference between Association from Part III and the advanced relationship you implemented? 
+5. What is the difference between Association from Part III and the advanced relationship you implemented?
 Association in the earlier activity was more about showing simple links between classes without much detail. In this advanced design, the relationships go deeper and add more structure. Instead of just connecting classes, the new relationships show hierarchy, ownership, and usage in a clearer way. 
 
-5. How does your design follow the DRY principle?  
+6. How does your design follow the DRY principle?
 The design avoids repeating the same details in multiple places. By keeping shared information in one class and letting other parts of the system use it, the code stays simpler and easier to manage. This way, the system feels more organized and doesn’t waste effort by writing the same thing over and over again.
