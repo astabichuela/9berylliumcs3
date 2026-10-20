@@ -25,6 +25,7 @@
 
 # Second Quarter Outputs
 [SG 8 - Encapsulation Activity](quarter2/sg8_encapsulation.py)
+
 [SG 9 - Inheritance Activity](quarter2/sg9_inheritance.py)
 
 ##
