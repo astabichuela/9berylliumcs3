@@ -28,6 +28,8 @@
 
 [SG 9 - Inheritance Activity](quarter2/sg9_inheritance.py)
 
+[SG 10 - Method Overriding](quarter2/sg10_method-overriding.py)
+
 ##
 
 # Third Quarter Outputs
