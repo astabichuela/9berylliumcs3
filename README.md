@@ -30,6 +30,10 @@
 
 [SG 10 - Method Overriding](quarter2/sg10_method-overriding.py)
 
+[SG 11 - Polymorphism Activity 1](quarter2/sg11_activity1.py)
+
+[SG 11 - Polymorphism Acitvity 2](quarter2/sg11_activity2.md)
+
 ##
 
 # Third Quarter Outputs

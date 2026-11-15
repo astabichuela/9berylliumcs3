@@ -53,10 +53,12 @@ patients = [patient1, senior_patient1, philhealth_patient1]
 
 # starts a loop through each patients included in the list
 for i in patients:
-    # displays patient's name, og bill, and final bill (and yung print() para mas organized) for all objects
+    # displays patient's name, og bill, and final bill for all objects
     print(f"Patient Name: {i.get_name()}") 
-    i.display_patient_type()
+    i.display_patient_type() # i is for each of the list of patients
     print(f"Original Bill: ₱{i.get_bill_amount():.2f}")
     print(f"Final Bill: ₱{i.calculate_bill():.2f}")
     print()
+
+
 
